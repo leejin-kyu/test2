@@ -1,5 +1,1 @@
-streamlit
-requests
-io
-os
 langchain
