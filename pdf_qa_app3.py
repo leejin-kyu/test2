@@ -11,7 +11,7 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores.faiss import FAISS
 
 # 환경변수 설정
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 # TXT 파일에서 텍스트를 불러오는 함수
 @st.cache_data(hash_funcs={str: id})
